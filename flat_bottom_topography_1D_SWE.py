@@ -82,5 +82,5 @@ plt.ylabel("Wave Height (m)")
 for stamp in time_stamps:
     plt.plot(x, x_values[np.where(t == stamp)[0][0]], lw="2", label=(str(stamp) + " Seconds"))
 plt.legend()
-# plt.savefig("flat_bottom_SWE.pdf")
+# plt.savefig("flat_bottom_SWE.png")
 plt.show()
