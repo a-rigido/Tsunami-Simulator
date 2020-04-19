@@ -4,7 +4,7 @@ The motion of fluid flow is described by the well-established Navier-Stokes equa
 
 ## Highlights of Code:
 * Utilizes Two-Step Lax-Wendroff
-* Visualization of Tsunami using 1D Shallow Water Equation for:
+* Visualization of 1D Shallow Water Equation for:
     * Topologically Flat Base (Unchanging Depth)
     * Topologically Varying Base (Tsunami Simulation)
 
