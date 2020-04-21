@@ -25,3 +25,6 @@ So in essence, these scripts will utilize the 1D shallow water equations and the
     ![](https://github.com/a-rigido/Tsunami-Simulator/blob/master/tsunami_simulation_SWE.png)
     
 
+<p align="center">
+Copyright (c) 2020 Alex Rigido
+</p> 
