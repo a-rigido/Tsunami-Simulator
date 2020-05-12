@@ -96,7 +96,7 @@ plt.xlabel("Wave Position (m)")
 plt.ylabel("Wave Height (m)")
 plt.ylim(-0.001,0.001)
 for stamp in time_stamps:
-    plt.plot(x, result[int(stamp // dt), 1], label=(str(stamp) + " Seconds"))
+    plt.plot(x, result[int(stamp // dt), 1], lw=2, label=(str(stamp) + " Seconds"))
 plt.legend(loc=4)
 # add the bottom topography
 plt.twinx()
